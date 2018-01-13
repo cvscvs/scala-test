@@ -1,0 +1,23 @@
+~run
+run last compile:run
+last compile:run
+run --help
+run help
+run -help
+run ?
+dir
+ls
+show
+cls
+clear
+run src/com/sna/hellworld/HelloWorld.scala
+run com/sna/hellworld/HelloWorld.scala
+build com/sna/hellworld/HelloWorld.scala
+build
+exit
+scalac
+scalac HelloWorld.scala
+scalac com/sna/helloworld/HelloWorld.scala
+scala -version
+scala -v
+exit
