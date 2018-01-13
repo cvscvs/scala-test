@@ -1,4 +1,4 @@
-package com.main.stringinterpolation
+package com.main.overview.stringinterpolation
 
 object MainDemo {
   def main(args: Array[String]){
