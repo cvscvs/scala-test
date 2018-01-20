@@ -1,0 +1,30 @@
+exit
+val lastNames = List("Smith","Jones","Frankenstein","Bach","Jackson","Rodin").par
+val test = "asdfdsfdaf"
+exit
+val test: String = "test"
+reporter/run
+:help
+help
+val C = q"class C"
+help
+about
+plugins
+new
+exit
+help
+run
+debug
+exit
+help
+project
+projects
+session
+help session
+session clear
+session list
+session list-all
+help
+reload
+val c = "dafdf"
+exit
