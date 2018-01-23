@@ -1,0 +1,17 @@
+[0m[[0minfo[0m] [0mFast optimizing D:\workspace\ws_scala\Binding.scala-sample\js\target\scala-2.11\js-fastopt.js[0m
+[0m[[0mdebug[0m] [0mLinker: Read info: 380289 us[0m
+[0m[[0mdebug[0m] [0mLinker: Compute reachability: 1004293 us[0m
+[0m[[0mdebug[0m] [0mLinker: Assemble LinkedClasses: 409638 us[0m
+[0m[[0mdebug[0m] [0mLinker: cache stats: reused: 0 -- invalidated: 9379 -- trees read: 727[0m
+[0m[[0mdebug[0m] [0mLinker: 1809236 us[0m
+[0m[[0mdebug[0m] [0mInc. optimizer: Batch mode: true[0m
+[0m[[0mdebug[0m] [0mInc. optimizer: Incremental part: 184407 us[0m
+[0m[[0mdebug[0m] [0mInc. optimizer: Optimizing 4195 methods.[0m
+[0m[[0mdebug[0m] [0mInc. optimizer: Optimizer part: 1194150 us[0m
+[0m[[0mdebug[0m] [0mInc. optimizer: 1394319 us[0m
+[0m[[0mdebug[0m] [0mRefiner: Compute reachability: 168777 us[0m
+[0m[[0mdebug[0m] [0mRefiner: Assemble LinkedClasses: 15541 us[0m
+[0m[[0mdebug[0m] [0mRefiner: 186061 us[0m
+[0m[[0mdebug[0m] [0mEmitter: Class tree cache stats: reused: 0 -- invalidated: 528[0m
+[0m[[0mdebug[0m] [0mEmitter: Method tree cache stats: resued: 0 -- invalidated: 2237[0m
+[0m[[0mdebug[0m] [0mEmitter (write output): 687967 us[0m

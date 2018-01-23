@@ -1,0 +1,56 @@
+<classpath>
+  <classpathentry kind="src" path="src\main\scala"/>
+  <classpathentry kind="con" path="org.scala-ide.sdt.launching.SCALA_CONTAINER"></classpathentry>
+  <classpathentry sourcepath="C:\Users\COGETEL\.ivy2\cache\org.scala-js\scalajs-library_2.11\srcs\scalajs-library_2.11-0.6.5-sources.jar" kind="lib" path="C:\Users\COGETEL\.ivy2\cache\org.scala-js\scalajs-library_2.11\jars\scalajs-library_2.11-0.6.5.jar">
+    <attributes>
+      <attribute name="javadoc_location" value="jar:file:C:\Users\COGETEL\.ivy2\cache\org.scala-js\scalajs-library_2.11\docs\scalajs-library_2.11-0.6.5-javadoc.jar!/"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry sourcepath="C:\Users\COGETEL\.ivy2\cache\com.thoughtworks.binding\dom_sjs0.6_2.11\srcs\dom_sjs0.6_2.11-1.0.5-sources.jar" kind="lib" path="C:\Users\COGETEL\.ivy2\cache\com.thoughtworks.binding\dom_sjs0.6_2.11\jars\dom_sjs0.6_2.11-1.0.5.jar">
+    <attributes>
+      <attribute name="javadoc_location" value="jar:file:C:\Users\COGETEL\.ivy2\cache\com.thoughtworks.binding\dom_sjs0.6_2.11\docs\dom_sjs0.6_2.11-1.0.5-javadoc.jar!/"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry sourcepath="C:\Users\COGETEL\.ivy2\cache\com.thoughtworks.binding\core_sjs0.6_2.11\srcs\core_sjs0.6_2.11-1.0.5-sources.jar" kind="lib" path="C:\Users\COGETEL\.ivy2\cache\com.thoughtworks.binding\core_sjs0.6_2.11\jars\core_sjs0.6_2.11-1.0.5.jar">
+    <attributes>
+      <attribute name="javadoc_location" value="jar:file:C:\Users\COGETEL\.ivy2\cache\com.thoughtworks.binding\core_sjs0.6_2.11\docs\core_sjs0.6_2.11-1.0.5-javadoc.jar!/"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry sourcepath="C:\Users\COGETEL\.ivy2\cache\com.thoughtworks.each\each_sjs0.6_2.11\srcs\each_sjs0.6_2.11-0.4.3-sources.jar" kind="lib" path="C:\Users\COGETEL\.ivy2\cache\com.thoughtworks.each\each_sjs0.6_2.11\jars\each_sjs0.6_2.11-0.4.3.jar">
+    <attributes>
+      <attribute name="javadoc_location" value="jar:file:C:\Users\COGETEL\.ivy2\cache\com.thoughtworks.each\each_sjs0.6_2.11\docs\each_sjs0.6_2.11-0.4.3-javadoc.jar!/"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry sourcepath="C:\Users\COGETEL\.ivy2\cache\com.github.japgolly.fork.scalaz\scalaz-core_sjs0.6_2.11\srcs\scalaz-core_sjs0.6_2.11-7.1.3-sources.jar" kind="lib" path="C:\Users\COGETEL\.ivy2\cache\com.github.japgolly.fork.scalaz\scalaz-core_sjs0.6_2.11\bundles\scalaz-core_sjs0.6_2.11-7.1.3.jar">
+    <attributes>
+      <attribute name="javadoc_location" value="jar:file:C:\Users\COGETEL\.ivy2\cache\com.github.japgolly.fork.scalaz\scalaz-core_sjs0.6_2.11\docs\scalaz-core_sjs0.6_2.11-7.1.3-javadoc.jar!/"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry sourcepath="C:\Users\COGETEL\.ivy2\cache\org.scala-lang.modules\scala-parser-combinators_2.11\srcs\scala-parser-combinators_2.11-1.0.4-sources.jar" kind="lib" path="C:\Users\COGETEL\.ivy2\cache\org.scala-lang.modules\scala-parser-combinators_2.11\bundles\scala-parser-combinators_2.11-1.0.4.jar">
+    <attributes>
+      <attribute name="javadoc_location" value="jar:file:C:\Users\COGETEL\.ivy2\cache\org.scala-lang.modules\scala-parser-combinators_2.11\docs\scala-parser-combinators_2.11-1.0.4-javadoc.jar!/"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry sourcepath="C:\Users\COGETEL\.ivy2\cache\org.scala-lang.modules\scala-xml_2.11\srcs\scala-xml_2.11-1.0.4-sources.jar" kind="lib" path="C:\Users\COGETEL\.ivy2\cache\org.scala-lang.modules\scala-xml_2.11\bundles\scala-xml_2.11-1.0.4.jar">
+    <attributes>
+      <attribute name="javadoc_location" value="jar:file:C:\Users\COGETEL\.ivy2\cache\org.scala-lang.modules\scala-xml_2.11\docs\scala-xml_2.11-1.0.4-javadoc.jar!/"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry sourcepath="C:\Users\COGETEL\.ivy2\cache\com.github.japgolly.fork.scalaz\scalaz-effect_sjs0.6_2.11\srcs\scalaz-effect_sjs0.6_2.11-7.1.3-sources.jar" kind="lib" path="C:\Users\COGETEL\.ivy2\cache\com.github.japgolly.fork.scalaz\scalaz-effect_sjs0.6_2.11\bundles\scalaz-effect_sjs0.6_2.11-7.1.3.jar">
+    <attributes>
+      <attribute name="javadoc_location" value="jar:file:C:\Users\COGETEL\.ivy2\cache\com.github.japgolly.fork.scalaz\scalaz-effect_sjs0.6_2.11\docs\scalaz-effect_sjs0.6_2.11-7.1.3-javadoc.jar!/"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry sourcepath="C:\Users\COGETEL\.ivy2\cache\com.lihaoyi\scalatags_sjs0.6_2.11\srcs\scalatags_sjs0.6_2.11-0.5.3-sources.jar" kind="lib" path="C:\Users\COGETEL\.ivy2\cache\com.lihaoyi\scalatags_sjs0.6_2.11\jars\scalatags_sjs0.6_2.11-0.5.3.jar">
+    <attributes>
+      <attribute name="javadoc_location" value="jar:file:C:\Users\COGETEL\.ivy2\cache\com.lihaoyi\scalatags_sjs0.6_2.11\docs\scalatags_sjs0.6_2.11-0.5.3-javadoc.jar!/"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry sourcepath="C:\Users\COGETEL\.ivy2\cache\org.scala-js\scalajs-dom_sjs0.6_2.11\srcs\scalajs-dom_sjs0.6_2.11-0.8.2-sources.jar" kind="lib" path="C:\Users\COGETEL\.ivy2\cache\org.scala-js\scalajs-dom_sjs0.6_2.11\jars\scalajs-dom_sjs0.6_2.11-0.8.2.jar">
+    <attributes>
+      <attribute name="javadoc_location" value="jar:file:C:\Users\COGETEL\.ivy2\cache\org.scala-js\scalajs-dom_sjs0.6_2.11\docs\scalajs-dom_sjs0.6_2.11-0.8.2-javadoc.jar!/"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+  <classpathentry kind="output" path="bin"/>
+</classpath>
